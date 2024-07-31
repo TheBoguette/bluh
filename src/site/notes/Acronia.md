@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/acronia/","tags":["gardenEntry"]}
+{"exampleProperty":null,"dg-publish":true,"dg-home":true,"permalink":"/acronia/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ```img-gallery
