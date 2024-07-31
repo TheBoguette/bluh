@@ -24,7 +24,7 @@ type: horizontal
 
 # MAP
 
-```leaflet
+```leaflet dg-publish:true
 id: Acronia-map
 image: [[Acronia map (1).jpg]]
 height: 500px
