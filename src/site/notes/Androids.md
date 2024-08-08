@@ -10,6 +10,7 @@ Appearance: High-Sentience Androids look the closest to Humans aside from a few 
 | Size              | Speed  | Darkvision | Base AC | Int Inc. | Strength Inc. | Language                        |
 | ----------------- | ------ | ---------- | ------- | -------- | ------------- | ------------------------------- |
 | [[Androids#^med\|Medium]] | 30 ft. | 20 ft.     | 16      | +2       | +1            | Common, Language of your choice |
+
 Size: Your size can vary from 4'9" to 6'2" this makes you medium
 { #med2}
 
@@ -29,6 +30,7 @@ Appearance: Low-Sentience Androids have some humanoid features but very low sent
 | Size              | Speed  | Darkvision | Base AC | Int dis. | Strength Inc. | Language |
 | ----------------- | ------ | ---------- | ------- | -------- | ------------- | -------- |
 | [[Androids#^med\|Medium]] | 30 ft. | 20 ft.     | 18      | -2       | +2            | Common   |
+
 Size: Your size can vary from 5'8" to 6'2" this makes you medium
 { #med2}
 

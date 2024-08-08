@@ -10,6 +10,7 @@ Appearance: Halosdyneans are tall humanoid creatures with gills and axolotl-like
 | Size              | Speed  | Swim. Speed | Darkvision | Base AC | Int Inc. | Wis Inc. | Strength Dis. | Language        |
 | ----------------- | ------ | ----------- | ---------- | ------- | -------- | -------- | ------------- | --------------- |
 | [[Halosdynean#^med\|Medium]] | 30 ft. | 40 ft.      | 5 ft.      | 15      | +2       | +2       | -2            | Halyian, Common |
+
 Size: Your size can vary from 6'0" to 8'2" this makes you medium
 { #med2}
 

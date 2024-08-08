@@ -10,6 +10,7 @@ Appearance: Mitranians are pale red-skinned Humanoid creatures accompanied by fl
 | Size              | Speed  | Swim. Speed | Darkvision | Base AC | Strength Inc. | Charisma Dis. | Language       |
 | ----------------- | ------ | ----------- | ---------- | ------- | ------------- | ------------- | -------------- |
 | [[Mitranian#^med\|Medium]] | 30 ft. | 15 ft.      | 5 ft.      | 10      | +2            | -1            | Mitral, Common |
+
 Size: Your size can vary from 5'0" to 5'7" at teenage hood to 6'0"/6'5" at adulthood. Though, you are still defined as medium.
 { #med}
 
