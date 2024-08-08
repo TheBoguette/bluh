@@ -38,7 +38,6 @@ scale: 1
 darkMode: false
 ```
 
-
 # Additional Information
 
 > [!religion] Religion
